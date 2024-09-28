@@ -1,0 +1,4 @@
+cd spam_email  
+Scripts\activate  
+streamlit run app .py                                                             
+             
